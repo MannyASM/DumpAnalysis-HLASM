@@ -22,6 +22,6 @@ a processor type 8561-T01.
 The job name was S0C7DMP.
 
 Files as as follows:
-1. JCL              AbendAnalysis_S0C7_JCL.txt
-2. Compile Listing  AbendAnalysis_S0C7_CList.txt
-3. Abend dump       AbendAnalysis_S0C7_S0C7Dump.txt 
+1. JCL: AbendAnalysis_S0C7_JCL.txt
+2. Compile Listing:  AbendAnalysis_S0C7_CList.txt
+3. Abend dump: AbendAnalysis_S0C7_S0C7Dump.txt 
