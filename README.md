@@ -11,13 +11,12 @@ observe the differences between dump analysis in a MVS3.8 and z15 environments.
 
 ENVIRONMENT
 =============
-OS:         z/OS 02.03.00
-Assembler:  HLASM 5696-234, release 6.0
-CPU:        8561-T01
+OS:         z/OS 02.03.00 *** Assembler:  HLASM 5696-234, release 6.0
+ *** CPU:        8561-T01
 
 DETAILS
 =======
-Ran the Moshix JCL (with very littel modifications) on the IBM training LPAR, which makes available 
+Ran the Moshix JCL (with very little modifications) on the IBM training LPAR, which makes available 
 a processor type 8561-T01.
 
 The job name was S0C7DMP.
