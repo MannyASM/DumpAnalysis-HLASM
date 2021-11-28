@@ -1,4 +1,4 @@
-# HLASM_DumpAnalysis
+# DumpAnalysis-HLASM
 
 Reference: MVS 3.8 Dump Analysis - Part II - M16 (youtube video: https://youtu.be/uGsozrcPTbY)
 Github:  https://github.com/moshix/abendanalysis
